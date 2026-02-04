@@ -36,6 +36,7 @@ Sustainability focuses on balancing environmental, social, and economic needs to
 
 ## Climate Action
 
+- [Remove Carbon Today](https://www.removecarbontoday.com): Enables individuals worldwide to remove their remaining personal CO₂ emissions through certified, durable, ex-post carbon removal with public registry proof.
 - [Climate Action Tracker](https://climateactiontracker.org/) – Independent scientific analysis tracking climate action and progress.
 - [ClimateClock](https://climateclock.world/) – Visual countdown to critical global climate milestones.
 - [Carbon Brief](https://www.carbonbrief.org/) – Journalism and analysis on climate science and policy.
