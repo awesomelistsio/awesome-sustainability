@@ -65,12 +65,14 @@ Sustainability focuses on balancing environmental, social, and economic needs to
 - [Awesome Carbon Accounting & Offsets](https://github.com/awesomelistsio/awesome-carbon-accounting-offsets) – Curated list of carbon tracking and offset tools.
 - [CDR.fyi](https://www.cdr.fyi/) – Live database of carbon removal purchases.
 - [Pachama](https://pachama.com/) – Technology platform for forest carbon credits and nature-based solutions.
+- [Carbon Badge](https://carbon-badge.com/) – Free badge displaying your website's carbon footprint and environmental impact.
 
 ## Sustainable Business & Finance
 
 - [B Lab](https://www.bcorporation.net/) – Certifies B Corps that balance profit and purpose.
 - [UN Principles for Responsible Investment](https://www.unpri.org/) – Framework for sustainable investment.
 - [GreenBiz](https://www.greenbiz.com/) – News and analysis at the intersection of business, technology, and sustainability.
+- [Green Claims Scanner](https://greenclaims-scanner.com/) – Detect and flag greenwashing on websites to ensure compliance with EU Green Claims Directive.
 
 ## Sustainable Agriculture & Food Systems
 
