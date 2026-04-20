@@ -101,6 +101,7 @@ Sustainability focuses on balancing environmental, social, and economic needs to
 - [Open Sustainable Technology](https://opensustain.tech/) – Directory of open-source projects solving sustainability problems.
 - [EN-ROADS Climate Simulator](https://github.com/climateinteractive/en-roads) – Open climate scenario simulator.
 - [Solar Assistant](https://github.com/Solar-Assistant) – Monitoring tools for solar energy systems.
+- [SolarPunk Nerve Center](https://github.com/meekotharaccoon-cell/meeko-nerve-center) - Autonomous revenue organism with 400+ self-tuning engines. 99% of every dollar routes to crisis aid (PCRF, IRC, MSF, UNICEF, Direct Relief).
 
 ## Related Awesome Lists
 
