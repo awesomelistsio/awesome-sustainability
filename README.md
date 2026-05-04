@@ -52,6 +52,7 @@ Sustainability focuses on balancing environmental, social, and economic needs to
 - [Open Energy Dashboard](https://openenergydashboard.org/) – Open-source platform to visualize energy usage and efficiency.
 - [IRENA](https://www.irena.org/) – International Renewable Energy Agency’s data, reports, and global maps.
 - [NREL Open Data](https://data.nrel.gov/) – Open datasets from the U.S. National Renewable Energy Laboratory.
+- [SolarCalculatorHQ](https://solarcalculatorhq.com/) – Free suite of solar PV sizing, payback, off-grid, and battery calculators with locale-specific data for 10 markets.
 
 ## Sustainable Tech & Design
 
