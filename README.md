@@ -65,6 +65,7 @@ Sustainability focuses on balancing environmental, social, and economic needs to
 - [Awesome Carbon Accounting & Offsets](https://github.com/awesomelistsio/awesome-carbon-accounting-offsets) – Curated list of carbon tracking and offset tools.
 - [CDR.fyi](https://www.cdr.fyi/) – Live database of carbon removal purchases.
 - [Pachama](https://pachama.com/) – Technology platform for forest carbon credits and nature-based solutions.
+- [co2-grid-meter](https://github.com/fabiocicerchia/co2-grid-meter) – Local-first grid carbon-intensity tracker (Pico W + e-ink) that says when to run energy-hungry appliances.
 
 ## Sustainable Business & Finance
 
