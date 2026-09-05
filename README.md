@@ -1,4 +1,4 @@
-# Awesome Sustainability [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Sustainability [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -104,11 +104,11 @@ Sustainability focuses on balancing environmental, social, and economic needs to
 
 ## Related Awesome Lists
 
-- **[Awesome Climate Change](https://github.com/awesomelistsio/awesome-climate-change)**
-- **[Awesome Carbon Accounting & Offsets](https://github.com/awesomelistsio/awesome-carbon-accounting-offsets)**
-- **[Awesome Environmental Engineering](https://github.com/awesomelistsio/awesome-environmental-engineering)**
-- **[Awesome Green Cloud Computing](https://github.com/awesomelistsio/awesome-green-cloud-computing)**
-- **[Awesome Geoengineering](https://github.com/awesomelistsio/awesome-geoengineering)**
+- **[Awesome Climate Change](https://github.com/brandonhimpfen/awesome-climate-change)**
+- **[Awesome Carbon Accounting & Offsets](https://github.com/brandonhimpfen/awesome-carbon-accounting-offsets)**
+- **[Awesome Environmental Engineering](https://github.com/brandonhimpfen/awesome-environmental-engineering)**
+- **[Awesome Green Cloud Computing](https://github.com/brandonhimpfen/awesome-green-cloud-computing)**
+- **[Awesome Geoengineering](https://github.com/brandonhimpfen/awesome-geoengineering)**
 
 ## Contribute
 
